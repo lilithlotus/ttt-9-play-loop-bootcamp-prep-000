@@ -42,5 +42,5 @@ def play(board)
     number_of_turns += 1
     turn(board)
   end
-end    
+end
     
